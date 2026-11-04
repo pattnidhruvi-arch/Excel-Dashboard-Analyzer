@@ -1,3 +1,6 @@
 ## 📊 Project Dashboard
 
-![Excel Analyzer Dashboard](dashboard.png)
+## 📊 Project Dashboard
+
+![Excel Analyzer Dashboard](Banner.png)
+
