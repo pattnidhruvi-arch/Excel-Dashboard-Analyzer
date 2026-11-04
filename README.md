@@ -1,5 +1,7 @@
 # 📊 Excel Analyzer – Sales Dashboard
+## 📊 Project Dashboard
 
+![Excel Dashboard](excel-dashboard-banner.png)
 ## 📌 Project Overview
 
 The Excel Analyzer is a Microsoft Excel-based project designed to analyze sales data and present meaningful insights through formulas, charts, and an interactive dashboard.
