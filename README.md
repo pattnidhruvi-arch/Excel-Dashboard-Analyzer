@@ -32,8 +32,7 @@ This project helps users understand sales performance, calculate percentages, an
 - Charts and Graphs
 
 ## 📊 Project Dashboard
-
-![Excel Analyzer Dashboard](Banner.png)
+excel-dashboard-banner.png
 
 ## 📂 Project Files
 
